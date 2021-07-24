@@ -1,0 +1,8 @@
+body{
+    background-color: aqua;
+}
+#heading{
+    font-size: 30px;
+    background-color: blue;
+    width: 300px;
+}
